@@ -15,7 +15,11 @@
 * ![image](https://github.com/user-attachments/assets/4158911d-f138-4d86-83ea-7c6a2061b615)
 
 * Napisz równanie prostej przechodzącej przez punkt $A(1, 2)$ i równoległej do wektora $\vec{v} = [2, 3]$.
+* ![image](https://github.com/user-attachments/assets/1c839de6-2cee-4eca-b6a9-f7649caabe9f)
+
 * Mamy prostą $y = 2x + 3$ znajdź przykład prostej prostopadłej i równoległej do niej.
+* ![image](https://github.com/user-attachments/assets/35e8c65d-bebd-4b75-989d-c166be7bb9db)
+
 * Mamy prostą $y = 2x + 3$ i punkt $A(1, 2)$. Znajdź odległość punktu $A$ od prostej.
 * Prosta przecina osie współrzędnych w punktach $A(2, 0)$ i $B(0, 3)$. Znajdź równanie prostej.
 * Policz kąt między prostą $y = x + 3$ a osią $Ox$.

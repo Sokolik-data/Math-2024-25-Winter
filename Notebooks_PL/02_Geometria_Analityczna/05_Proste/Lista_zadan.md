@@ -27,4 +27,8 @@
 * ![image](https://github.com/user-attachments/assets/7a248a2b-e2aa-4295-9150-f95697cf494e)
 
 * Policz kąt między prostą $y = x + 3$ a osią $Ox$.
+* ![image](https://github.com/user-attachments/assets/5ec5460e-04f5-4720-8181-ae1ec5f70c0e)
+
 * Podaj wektor prostopadły do prostej $x+y+1=0$.
+* ![image](https://github.com/user-attachments/assets/3c4dddf9-58e1-4c0e-ba13-f8617d85877a)
+

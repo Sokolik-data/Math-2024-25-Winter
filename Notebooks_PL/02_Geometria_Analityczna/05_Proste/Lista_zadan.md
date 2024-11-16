@@ -24,5 +24,7 @@
 * ![image](https://github.com/user-attachments/assets/21fec8a2-7074-4587-a098-101ffd7ec8ff)
 
 * Prosta przecina osie współrzędnych w punktach $A(2, 0)$ i $B(0, 3)$. Znajdź równanie prostej.
+* ![image](https://github.com/user-attachments/assets/7a248a2b-e2aa-4295-9150-f95697cf494e)
+
 * Policz kąt między prostą $y = x + 3$ a osią $Ox$.
 * Podaj wektor prostopadły do prostej $x+y+1=0$.

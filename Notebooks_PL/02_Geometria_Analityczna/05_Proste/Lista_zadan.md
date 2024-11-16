@@ -3,6 +3,8 @@
 **Każde zadanie proszę zwizualizować.** - python, geogebra, wolfram alpha, ...
 
 * Prosta przechodzi przez punkty $A(1, 2)$ i $B(3, 4)$. Znajdź równanie prostej.
+* ![image](https://github.com/user-attachments/assets/b9a2ba6b-3faf-4b77-9353-983d08503239)
+
 * Prosta przechodzi przez punkt $A(1, 2)$ i jest równoległa do prostej $y = 2x + 3$. Znajdź równanie prostej.
 * Prosta przechodzi przez punkt $A(1, 2)$ i jest prostopadła do prostej $y = 2x + 3$. Znajdź równanie prostej.
 * Mamy dwie proste $y = 2x + 3$ i $y = 3x + 2$. Znajdź punkt przecięcia tych prostych oraz policz kąt między nimi.

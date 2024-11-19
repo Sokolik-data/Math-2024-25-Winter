@@ -12,5 +12,7 @@
 * ![image](https://github.com/user-attachments/assets/3d69ec49-e72e-419e-9e0c-ffa042867f0c)
 
 * Znajdź współczynnik kierunkowy ($m>0$) prostej $y=mx-5$  stycznej do okręgu o równaniu $x^2 + y^2=1$
+* ![image](https://github.com/user-attachments/assets/69fab88c-30d6-41f6-8273-ba132b5bbfd0)
+
 * Znajdź punkty przecięcia hiperboli $x^2 - y^2 = 1$ z prostą elipsy $x^2 + 4y^2 = 6$.
 * Dla danej hiperboli $x^2 - y^2 = 1$ znajdź odległość między jej ramionami.

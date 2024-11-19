@@ -15,4 +15,8 @@
 * ![image](https://github.com/user-attachments/assets/69fab88c-30d6-41f6-8273-ba132b5bbfd0)
 
 * Znajdź punkty przecięcia hiperboli $x^2 - y^2 = 1$ z prostą elipsy $x^2 + 4y^2 = 6$.
+* ![image](https://github.com/user-attachments/assets/2f99de9a-a45f-49f6-8d60-6c5302720cfe)
+
 * Dla danej hiperboli $x^2 - y^2 = 1$ znajdź odległość między jej ramionami.
+* ![image](https://github.com/user-attachments/assets/2cfbc3c1-8fe9-4fa5-bd94-c1f0e8d273ee)
+

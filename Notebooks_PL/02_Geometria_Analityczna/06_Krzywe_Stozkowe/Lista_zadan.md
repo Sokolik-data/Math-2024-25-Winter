@@ -9,6 +9,8 @@
 * ![image](https://github.com/user-attachments/assets/14a91508-a6ed-4f3c-bd06-f573a772ca77)
 
 * Znajdź środek elipsy o równaniu $x^2 + 4y^2 - 4x - 16y + 16 = 0$.
+* ![image](https://github.com/user-attachments/assets/3d69ec49-e72e-419e-9e0c-ffa042867f0c)
+
 * Znajdź współczynnik kierunkowy ($m>0$) prostej $y=mx-5$  stycznej do okręgu o równaniu $x^2 + y^2=1$
 * Znajdź punkty przecięcia hiperboli $x^2 - y^2 = 1$ z prostą elipsy $x^2 + 4y^2 = 6$.
 * Dla danej hiperboli $x^2 - y^2 = 1$ znajdź odległość między jej ramionami.

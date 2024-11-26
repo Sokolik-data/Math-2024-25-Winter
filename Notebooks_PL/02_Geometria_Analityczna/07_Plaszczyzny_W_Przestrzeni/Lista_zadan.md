@@ -24,5 +24,7 @@
 * ![image](https://github.com/user-attachments/assets/6789a5fe-0ef2-44c8-94e2-12dce7e7f898)
 
 * Płaszczyzna przecina osie współrzędnych w punktach $A(2, 0, 0)$, $B(0, 3, 0)$ oraz $C(0, 0, 4)$. Znajdź równanie płaszczyzny.
+* ![image](https://github.com/user-attachments/assets/5299c60d-3e2a-47c7-991e-4ef7f14ad8f6)
+
 * Policz kąt między płaszczyzną $x + y + z = 1$ a płaszczyzną $x = 0$ (czyli płaszczyzną $yz$).
 * Znajdź wektor prostopadły do płaszczyzny $x + y + z = 1$.

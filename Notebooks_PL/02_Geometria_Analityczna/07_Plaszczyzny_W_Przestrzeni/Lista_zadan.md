@@ -15,8 +15,14 @@
 * ![image](https://github.com/user-attachments/assets/97865178-f08f-426b-9809-3117ad54be8f)
 
 * Napisz równanie płaszczyzny przechodzącej przez punkt $A(1, 2, 3)$ i równoległej do wektorów $\vec{v_1} = [1, 0, 1]$ oraz $\vec{v_2} = [0, 1, -1]$.
+* ![image](https://github.com/user-attachments/assets/de3a7f48-42a4-4fb9-97f6-4a66c42f3545)
+
 * Mamy płaszczyznę $2x + 3y + 4z = 5$. Znajdź przykład płaszczyzny równoległej i prostopadłej do niej.
+* ![image](https://github.com/user-attachments/assets/ffcb4332-91bf-464e-b281-34ee43fa4917)
+
 * Mamy płaszczyznę $2x + 3y + 4z = 5$ i punkt $A(1, 2, 3)$. Znajdź odległość punktu $A$ od tej płaszczyzny.
+* ![image](https://github.com/user-attachments/assets/6789a5fe-0ef2-44c8-94e2-12dce7e7f898)
+
 * Płaszczyzna przecina osie współrzędnych w punktach $A(2, 0, 0)$, $B(0, 3, 0)$ oraz $C(0, 0, 4)$. Znajdź równanie płaszczyzny.
 * Policz kąt między płaszczyzną $x + y + z = 1$ a płaszczyzną $x = 0$ (czyli płaszczyzną $yz$).
 * Znajdź wektor prostopadły do płaszczyzny $x + y + z = 1$.

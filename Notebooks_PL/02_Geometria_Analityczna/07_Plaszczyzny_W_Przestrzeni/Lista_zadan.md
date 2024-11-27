@@ -27,4 +27,8 @@
 * ![image](https://github.com/user-attachments/assets/5299c60d-3e2a-47c7-991e-4ef7f14ad8f6)
 
 * Policz kąt między płaszczyzną $x + y + z = 1$ a płaszczyzną $x = 0$ (czyli płaszczyzną $yz$).
+* ![image](https://github.com/user-attachments/assets/956ef6b9-6d9e-4011-87b4-969e6eaa1ad2)
+
 * Znajdź wektor prostopadły do płaszczyzny $x + y + z = 1$.
+* ![image](https://github.com/user-attachments/assets/ea8203b0-c66e-48ad-88a8-91ec91213aaf)
+

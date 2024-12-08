@@ -28,10 +28,31 @@ and visualize functions in a single Geogebra notebook.
 
 
 4. We have function $f=\{(1,7), (2,9), (3,11)\}$. Give inverse function $f^{-1}$.
+  ## Zadanie: Znalezienie funkcji odwrotnej
+
+Dana jest funkcja \( f = \{(1, 7), (2, 9), (3, 11)\} \).
+
+### Rozwiązanie
+
+Funkcja odwrotna \( f^{-1} \) uzyskiwana jest przez zamianę zmiennych \(x\) i \(y\):
+
+$$
+f^{-1} = \{(7, 1), (9, 2), (11, 3)\}.
+$$
+
+
 
 5. We have function $f=\{(1,7), (2,7), (3,11)\}$. Give inverse function $f^{-1}$.
 
+### Odpowiedź:
+
+$$
+f^{-1} = \{(7, 1), (7, 2), (11, 3)\}.
+$$
+
 6. We have function $f(x)= x-1$. Give inverse function $f^{-1}$. Show both functions on the same Geogebra notebook.
+![image](https://github.com/user-attachments/assets/d25367b1-701f-4f3d-8cc0-9da84fe3801c)
+
 
 ## Limits of Sequences
 

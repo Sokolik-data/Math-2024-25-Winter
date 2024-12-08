@@ -9,6 +9,9 @@
    - $j(x) = \sin(x)$
 
 Find value of all the above functions at $x = 2$.
+![image](https://github.com/user-attachments/assets/dc111033-28df-4aed-91e2-a67a5858161c)
+
+
 
 2. Let $f(x) = 3x - 1$ and $g(x) = \sqrt{x}$. Find:
    - $f(g(x))$
@@ -17,6 +20,8 @@ Find value of all the above functions at $x = 2$.
    - $g(g(x))$
 
 and visualize functions in a single Geogebra notebook.
+![image](https://github.com/user-attachments/assets/fb5e3913-de61-47b9-b0af-167b7083645d)
+
 
 3. Let $f(x) = e^x$ and $g(x) = \ln(x)$. Check: $f(g(x))$ and $g(f(x))$. What do you notice?
 

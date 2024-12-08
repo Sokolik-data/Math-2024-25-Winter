@@ -24,6 +24,8 @@ and visualize functions in a single Geogebra notebook.
 
 
 3. Let $f(x) = e^x$ and $g(x) = \ln(x)$. Check: $f(g(x))$ and $g(f(x))$. What do you notice?
+![image](https://github.com/user-attachments/assets/a2a74d5c-34ba-4d7e-bed5-ce85dd0d7da5)
+
 
 4. We have function $f=\{(1,7), (2,9), (3,11)\}$. Give inverse function $f^{-1}$.
 
